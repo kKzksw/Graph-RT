@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+torch-geometric
+tqdm
+matplotlib
+openpyxl
+rdkit
